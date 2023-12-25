@@ -2,9 +2,9 @@
 <h3 align="center">A passionate 18 y.o. frontend developer / athlete / language learner. I wanna benefit other people, learn new stuff and grow as a developer</h3>
 <img align="right" alt="logo" width="400" src="https://media.tenor.com/F9tmmNBBegsAAAAC/kaito-typing.gif" />
 
-- 🌱 I’m currently learning **Next js, Realtime db, AI integrations**
+- 🌱 I’m currently learning **Next js, Algorithms and Data Structures**
 
-- 💬 Ask me about **Next js**
+- 💬 Ask me about **Next js, DSA**
 
 - 📫 How to reach me **arseniyxd@gmail.com**
 
