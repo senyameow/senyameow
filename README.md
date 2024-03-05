@@ -1,5 +1,5 @@
 <h1 align="center">改善</h1>
-<h3 align="center">A passionate 20 y.o. frontend developer / athlete / language learner. I wanna benefit other people, learn new stuff and grow as a developer</h3>
+<h3 align="center">A passionate 18 y.o. frontend developer / athlete / language learner. I wanna benefit other people, learn new stuff and grow as a developer</h3>
 <img align="right" alt="logo" width="400" src="https://media.tenor.com/F9tmmNBBegsAAAAC/kaito-typing.gif" />
 
 - 🌱 I’m currently learning **Clean code, Algorithms and Data Structures**
