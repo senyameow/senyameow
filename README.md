@@ -2,11 +2,10 @@
 <h3 align="center">V8</h3>
 <img align="right" alt="logo" width="400" src="https://media.tenor.com/F9tmmNBBegsAAAAC/kaito-typing.gif" />
 
-- 🌱 I’m currently learning **Clean code, Algorithms and Data Structures**
+- 🌱 I’m currently learning **Softaware Architecture, System Design**
 
-- 💬 Ask me about **Next js, DSA**
+- 💬 Ask me about **Backend, Node.js, SOLID**
 
-<h3 align="left">Connect with me: https://t.me/importpandasaspd</h3>
 <p align="left">
 </p>
 
