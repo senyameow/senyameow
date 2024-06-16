@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Next js, DSA**
 
-- 📫 How to reach me **arseniyxd@gmail.com**
-
 <h3 align="left">Connect with me: https://t.me/importpandasaspd</h3>
 <p align="left">
 </p>
