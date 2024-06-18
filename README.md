@@ -1,5 +1,5 @@
 <h1 align="center">改善</h1>
-<h3 align="center">V8</h3>
+<h3 align="center">Dependency Injected</h3>
 <img align="right" alt="logo" width="400" src="https://media.tenor.com/F9tmmNBBegsAAAAC/kaito-typing.gif" />
 
 - 🌱 I’m currently learning **Softaware Architecture, System Design**
